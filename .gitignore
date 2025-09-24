@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+dwight_venv/
+
+# Environment variables
+.env
+
+# Databases
+*.db
+
+# VS Code and macOS
+.vscode/
+.DS_Store
