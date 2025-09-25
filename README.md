@@ -1,6 +1,6 @@
 # StockMind
 
-> Your AI-powered portfolio assistant — built with FastAPI, React, and modern developer tools.
+> An AI-powered portfolio assistant — built with FastAPI, React, and modern developer tools.
 
 ---
 
