@@ -1,0 +1,47 @@
+# --- Python ---
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+*.env
+
+
+# --- Virtual Environments ---
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.dwight_venv/
+dwight_venv/
+
+# --- VSCode ---
+.vscode/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Databases ---
+*.sqlite3
+*.db
+
+# --- Logs ---
+*.log
+
+# --- Migrations ---
+**/migrations/
+*.pot
+*.pyc
+__pycache__/
+
+# --- Node (if frontend later) ---
+node_modules/
+dist/
+build/
+
+# --- Uvicorn reload artifacts ---
+*.pid
+stockmind.db
